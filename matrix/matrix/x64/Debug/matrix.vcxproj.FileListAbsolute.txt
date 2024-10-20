@@ -1,0 +1,4 @@
+C:\Users\armen\source\repos\matrix\matrix\x64\Debug\matrix.vcxproj.AssemblyReference.cache
+C:\Users\armen\source\repos\matrix\matrix\x64\Debug\matrix.MyForm.resources
+C:\Users\armen\source\repos\matrix\matrix\x64\Debug\matrix.vcxproj.GenerateResource.cache
+C:\Users\armen\source\repos\matrix\matrix\x64\Debug\matrix.MyFormMatrix.resources

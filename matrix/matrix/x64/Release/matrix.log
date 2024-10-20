@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Armen\source\repos\matrix\matrix\MyForm.h(1407,6): warning C4101: test: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  matrix.vcxproj -> C:\Users\Armen\source\repos\matrix\x64\Release\matrix.exe
